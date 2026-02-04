@@ -97,6 +97,8 @@ Análise de churn de clientes de uma operadora de telecomunicações — ou seja
 * Modelagem preditiva com classificadores
 * Avaliação de performance (métricas e visualizações)
 
+**👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Telco_Customer_Churn_Analysis.ipynb
+
 ## 🚀 Tecnologias Utilizadas
 
 * Python
