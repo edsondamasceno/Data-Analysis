@@ -15,6 +15,7 @@ Análise exploratória e visual de dados de vendas com foco em identificar padr�
 * Limpeza e preparação de dados
 * Estatísticas descritivas (soma, média, contagem)
 * Visualizações com gráficos de linha e barras
+* Visualização interativa em Plotly com filtros via dropdown
 * Análise de tendências por períodos
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Analise_de_Vendas.ipynb
