@@ -1,8 +1,8 @@
 # 📂 Projetos de Análise de Dados
 
-Repositório com diferentes projetos de **análise de dados** e **machine learning** em Jupyter Notebooks — cada um focado em um tipo específico de análise ou modelo.
+Repositório com diferentes projetos de **análise de dados**, **machine learning** e **SQL** em Jupyter Notebooks — cada um focado em um tipo específico de análise ou modelo.
 
-## 📈 Análise de Vendas**
+## 📈 Análise de Vendas
 
 📄 **Notebook**: Analise_de_Vendas.ipynb
 
@@ -19,7 +19,7 @@ Análise exploratória e visual de dados de vendas com foco em identificar padr�
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Analise_de_Vendas.ipynb
 
-## **👥 Cohort Analysis**
+## 👥 Cohort Analysis
 
 📄 **Notebook**: Cohort_Analysis.ipynb
 
@@ -35,7 +35,7 @@ Realiza uma análise de cohorts para entender o comportamento de grupos de clien
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Cohort_Analysis.ipynb
 
-## **❤️ Heart Failure Prediction**
+## ❤️ Heart Failure Prediction
 
 📄 **Notebook**: Heart_Failure_Prediction.ipynb
 
@@ -52,7 +52,7 @@ Projeto de machine learning para predição de risco de falência cardíaca com 
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Heart_Failure_Prediction.ipynb
 
-## **🛒 Supermarket Sales Analysisb**
+## 🛒 Supermarket Sales Analysis
 
 📄 **Notebook**: Supermarket_Sales_Analysis.ipynb
 
@@ -82,7 +82,7 @@ Análise de dados de um supermercado, explorando padrões de compra por produtos
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Supermarket_Sales_Analysis.ipynb
 
-## **📉 Telco Customer Churn Analysis**
+## 📉 Telco Customer Churn Analysis
 
 📄 **Notebook**: Telco_Customer_Churn_Analysis.ipynb
 
@@ -97,7 +97,7 @@ Análise de churn de clientes de uma operadora de telecomunicações — ou seja
 * Modelagem preditiva com classificadores
 * Avaliação de performance (métricas e visualizações)
 
-## **🚀 Tecnologias Utilizadas**
+## 🚀 Tecnologias Utilizadas
 
 * Python
 * Pandas, NumPy
