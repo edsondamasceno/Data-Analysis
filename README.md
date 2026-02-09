@@ -83,7 +83,7 @@ Análise de dados de um supermercado, explorando padrões de compra por produtos
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Supermarket_Sales_Analysis.ipynb
 
-## 📉 Telco Customer Churn Analysis
+## 📉 Previsão de rotatividade de clientes de telecomunicações
 
 📄 **Notebook**: Telco_Customer_Churn_Analysis.ipynb
 
