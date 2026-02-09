@@ -36,7 +36,7 @@ Realiza uma análise de cohorts para entender o comportamento de grupos de clien
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Cohort_Analysis.ipynb
 
-## ❤️ Heart Failure Prediction
+## ❤️ Previsão de Insuficiência Cardíaca
 
 📄 **Notebook**: Heart_Failure_Prediction.ipynb
 
