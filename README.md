@@ -53,7 +53,7 @@ Projeto de machine learning para predição de risco de falência cardíaca com 
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Heart_Failure_Prediction.ipynb
 
-## 🛒 Supermarket Sales Analysis
+## 🛒 Análise de Vendas em Supermercado
 
 📄 **Notebook**: Supermarket_Sales_Analysis.ipynb
 
@@ -83,7 +83,7 @@ Análise de dados de um supermercado, explorando padrões de compra por produtos
 
 **👉 Acesse o repositório:** https://github.com/edsondamasceno/Data-Analysis/blob/main/Supermarket_Sales_Analysis.ipynb
 
-## 📉 Previsão de rotatividade de clientes de telecomunicações
+## 📉 Previsão de Rotatividade de Clientes de Telecomunicações
 
 📄 **Notebook**: Telco_Customer_Churn_Analysis.ipynb
 
